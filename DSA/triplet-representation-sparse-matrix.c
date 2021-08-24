@@ -11,7 +11,7 @@
 
 
 /* Utility function to print any 2D array (matrix) of order RxC */
-    int matrixPrint(int **matrix, int r, int c)
+    void matrixPrint(int **matrix, int r, int c)
     {       
         for (int i = 0; i < r; i++)
         {

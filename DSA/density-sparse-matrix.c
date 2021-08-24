@@ -1,7 +1,7 @@
 /*
     ----------------------------------------------------
-    WAP to represent a sparse matrix with random 
-    function and Pr % number of elements in a NxN matrix
+    Program to represent a NxN sparse matrix with random 
+    non zero elements with appropriate density
     ----------------------------------------------------
 */
 /*

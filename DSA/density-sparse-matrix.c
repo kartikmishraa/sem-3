@@ -15,7 +15,7 @@
 // matrixGen() is passed a sparse matrix, which is then filled by non zero elements after scanning 
 // density of the sparse matrix from the user
 
-int matrixGen(int *matrix, int n)
+void matrixGen(int *matrix, int n)
 {
     // Scanning density of sparse matrix 
         
@@ -40,7 +40,7 @@ int matrixGen(int *matrix, int n)
 
 /* Utility function to print a matrix of order NxN */
 
-int matrixPrint(int *matrix, int n)
+void matrixPrint(int *matrix, int n)
 {       
     printf("\nMatrix is : - \n");
     for (int i = 0; i < n * n; i++)

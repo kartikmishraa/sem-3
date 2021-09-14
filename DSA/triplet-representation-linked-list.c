@@ -1,3 +1,9 @@
+/*
+    Program to represent a sparse matrix 
+    efficiently in triplet form using linked 
+    list
+*/
+
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

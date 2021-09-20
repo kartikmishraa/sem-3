@@ -5,4 +5,5 @@ Date of Creation: 17 Aug 2021
 
 Points: -
 |--> Will push code when I have some to push. 
-|--> Currentyly 2 folders will exist, OOP and DSA. Will add programs written for each subject in its respective folder. 
+|--> Currently 2 folders will exist, OOP and DSA. Will add programs written for each subject in its respective folder. 
+|--> OOP will have programs written in C++ and DSA will have programs written in C. 

@@ -1,3 +1,9 @@
+/*
+    ----------------------------------------------------------------------
+    The program takes two distances and performs various operations on it, 
+    input, display, addition and subtraction.
+    ----------------------------------------------------------------------
+*/
 #include<iostream>
 
 using namespace std;

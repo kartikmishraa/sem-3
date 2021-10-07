@@ -1,3 +1,9 @@
+/* 
+    STACK IMPLEMENTATION using ARRAY in C 
+    In the program I have declared a stack using array and created a menu driven program to perform 
+    stack operations such as push, pop, check empty, and display. 
+*/
+
 #include<stdio.h>
 #define MAX 100
 
